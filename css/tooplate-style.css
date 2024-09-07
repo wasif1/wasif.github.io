@@ -517,9 +517,9 @@ b, strong {
   }
 }
 @media (max-width: 580px) {
-	.animated-info {
-		min-width: 280px;
-	}
+  .animated-info {
+    min-width: 290px;
+  }
   .animated-item {
     font-size: 30px;
   }
